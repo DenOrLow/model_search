@@ -18,6 +18,8 @@ The library enables you to:
 
 #Now I am going to add some cats to this file
 
+#And one dog in the end
+
 * Run many AutoML algorithms out of the box on your data - including automatically searching
 for the right model architecture, the right ensemble of models
 and the best distilled models.
